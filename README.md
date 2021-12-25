@@ -1,1 +1,1 @@
-# 1-Task_HTML_-_CSS
+# 1-Task_HTML_and_CSS
